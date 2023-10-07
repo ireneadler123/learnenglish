@@ -1,4 +1,5 @@
 import streamlit as st
+import mysql
 import mysql.connector
 st.set_page_config(page_title = 'Learning English with me', page_icon = ':earth_asia:', layout = 'wide')
 
